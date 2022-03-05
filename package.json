@@ -1,0 +1,23 @@
+{
+  "name": "AM",
+  "version": "1.0.0",
+  "description": "Proyecto Sitio Web de Aromas Milenarios\r Comienzo: 30/01/2022",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffrachia26/AM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffrachia26/AM/issues"
+  },
+  "homepage": "https://github.com/ffrachia26/AM#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
